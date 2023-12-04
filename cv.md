@@ -14,4 +14,4 @@ I am a graduate of Eurasian National University. I am currently learing HTML/CSS
 
 ## Languages
 English - A1
-
+Russian - Native
